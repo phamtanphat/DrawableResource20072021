@@ -8,27 +8,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.google.android.material.button.MaterialButtonToggleGroup
-        android:id="@+id/toggleButton"
+    <RatingBar
+        android:minHeight="24dp"
+        android:maxHeight="24dp"
+        android:progressDrawable="@drawable/bg_rating"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:singleSelection="true">
-        <Button
-            android:id="@+id/button1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Male"
-            android:layout_marginStart="5dp"
-            style="?attr/materialButtonOutlinedStyle"/>
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Female"
-            android:layout_marginStart="10dp"
-            style="?attr/materialButtonOutlinedStyle"/>
-
-    </com.google.android.material.button.MaterialButtonToggleGroup>
+        android:layout_height="wrap_content"/>
 
 
 </LinearLayout>

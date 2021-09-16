@@ -6,8 +6,11 @@
         <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_box_corner.xml" value="0.2574074074074074" />
         <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_button.xml" value="0.29010416666666666" />
         <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_button_corner.xml" value="0.2574074074074074" />
+        <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_rating.xml" value="0.2601851851851852" />
+        <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_rating_empty.xml" value="0.2601851851851852" />
+        <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_rating_full.xml" value="0.2601851851851852" />
         <entry key="..\:/DrawableResource20072021/app/src/main/res/drawable/bg_state_list.xml" value="0.2722222222222222" />
-        <entry key="..\:/DrawableResource20072021/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/DrawableResource20072021/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/DrawableResource20072021/app/src/main/res/layout/activity_main_shape.xml" value="0.21481481481481482" />
       </map>
     </option>
